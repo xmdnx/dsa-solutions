@@ -3,7 +3,7 @@
 ## Problem Information
 - **Platform:** Leetcode
 - **Difficulty:** Easy
-- **URL:** https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/submissions/1905711286/
+- **URL:** https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/submissions/1905719932/
 - **Date:** 2026-02-02
 
 ## Solution
